@@ -1,1 +1,2 @@
-https://translation.googleapis.com/language/translate/v2/translate?key=AIzaSyAjLb5mCuEGckU_shCm-d4wlYvZZbZ1PuQ&q=उत्त %प्रदेशात%प्रथमच%साजरा%होणार%महाराष्ट्र%दिन
+https://translation.googleapis.com/language/translate/v2/translate?key=AIzaSyAjLb5mCuEGckU_shCm-d4wlYvZZbZ1PuQ&q=भ्रष्ट रेल्वे अधिकाऱ्यांवर कठोर कारवाईचा पंतप्रधानांचा इशारा
+
